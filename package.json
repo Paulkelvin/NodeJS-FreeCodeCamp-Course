@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Ibukunoluwa Adesanya",
   "description": "This is a project for my NodeJS course on FreeCodeCamp",
+  "keywords": [
+    "FreeCodeCamp",
+    "NodeJS",
+    "JavaScript",
+    "NodeJS course"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
